@@ -1,0 +1,6 @@
+target/
+b/
+build_output/
+.settings/
+.classpath
+.project
